@@ -2,6 +2,6 @@
 
   =>  Project Link    : https://restoran.sakina-mohammadi.xyz/
 
-  =>  Template Author  : Sakina Mohammadi
+  =>  Project Author  : Sakina Mohammadi
 
   =>  Author Website   : http://sakina-mohammadi.xyz
